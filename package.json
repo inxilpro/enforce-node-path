@@ -1,6 +1,6 @@
 {
   "name": "enforce-node-path",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Enforce usage of NODE_PATH environmental variable to make loading application modules in Node.js more consistent.",
   "main": "index.js",
   "scripts": {
